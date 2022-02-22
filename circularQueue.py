@@ -1,4 +1,4 @@
-# Circular Queue implementation in Python
+
 
 
 class MyCircularQueue():
@@ -53,7 +53,6 @@ class MyCircularQueue():
             print()
 
 
-# Your MyCircularQueue object will be instantiated and called as such:
 obj = MyCircularQueue(5)
 obj.enqueue(1)
 obj.enqueue(2)
